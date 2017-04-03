@@ -12,6 +12,6 @@ sh setup.sh
 </code>
 
 <br />
-<br />
-This will run a script that installs TOR and the other necessary files for <code>anonymous</code> to work.
+
+This will run a script that installs Tor and the other necessary files for <code>anonymous</code> to work.
 To run <code>anonymous</code> after installation, run <code>anonymous</code>, <code>anonymous start</code>, or <code>anonymous stop</code>.
