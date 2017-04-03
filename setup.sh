@@ -1,6 +1,6 @@
 # This script sets up "anonymous" for Kali Linux.
-# Made by Keegan Kuhn
-# keegan.j.k@outlook.com
+# Made with <3 by Keegan Kuhn
+# keeganjk@protonmail.com
 
 tor_install()
 	echo ""
@@ -37,4 +37,4 @@ echo "START: anonymous start "
 echo "STOP : anonymous stop  "
 echo "STAT : anonymous status"
 echo ""
-echo "If you find a bug, contact me at keegan.j.k@outlook.com"
+echo "If you find a bug, contact me at keeganjk@protonmail.com"
