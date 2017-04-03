@@ -1,2 +1,11 @@
 # kali-anonymous
-The "anonymous" script from Backbox Linux, perfected to run on Kali Linux Rolling.
+The "anonymous" script from ParrotSec OS and Backbox Linux, perfected to run on Kali Linux Rolling.
+
+ _   __  ___   _     _____    ___   _   _ _____ _   ___   ____  ________ _   _ _____ 
+| | / / / _ \ | |   |_   _|  / _ \ | \ | |  _  | \ | \ \ / /  \/  |  _  | | | /  ___|
+| |/ / / /_\ \| |     | |   / /_\ \|  \| | | | |  \| |\ V /| .  . | | | | | | \ `--. 
+|    \ |  _  || |     | |   |  _  || . ` | | | | . ` | \ / | |\/| | | | | | | |`--. \
+| |\  \| | | || |_____| |_  | | | || |\  \ \_/ / |\  | | | | |  | \ \_/ / |_| /\__/ /
+\_| \_/\_| |_/\_____/\___/  \_| |_/\_| \_/\___/\_| \_/ \_/ \_|  |_/\___/ \___/\____/ 
+                                                                                     
+                                                                                     
