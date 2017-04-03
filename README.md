@@ -6,6 +6,7 @@ The "anonymous" script from ParrotSec OS and Backbox Linux, perfected to run on 
 
 ## How to use it
 In order to install <code>kali-anonymous</code>, run the commands below when in the <code>kali-anonymous</code> directory:
+<br />
 <code>
 sh setup.sh
 </code>
