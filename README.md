@@ -17,10 +17,9 @@
 
 ## How to use it
 In order to install <code>kali-anonymous</code>, run this simple command below when in the <code>kali-anonymous</code> directory:
-<br />
-<code>
+~~~~
 sh setup.sh
-</code>
+~~~~
 
 <br />
 
