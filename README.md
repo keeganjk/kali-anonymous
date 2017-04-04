@@ -7,7 +7,7 @@ _         _ _
 |_|\_\__,_|_|_|      \__,_|_| |_|\___/|_| |_|\__, |_| |_| |_|\___/ \__,_|___/
                                               __/ |                          
                                              |___/
-                                             </code>
+</code>
 
 The "anonymous" script from ParrotSec OS and Backbox Linux, perfected to run on Kali Linux Rolling.
 
