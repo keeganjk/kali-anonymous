@@ -13,7 +13,8 @@
 
 # The "anonymous" script from ParrotSec OS and Backbox Linux, perfected to run on Kali Linux Rolling.
 
-<h6>Supported OSes: Kali Linux</h6>
+<h5>Supported OSes: Kali Linux</h5>
+<h6>* Other Debian-based Linux distros may work</h6>
 
 <hr />
 
