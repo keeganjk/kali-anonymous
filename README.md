@@ -13,13 +13,15 @@
 
 # The "anonymous" script from ParrotSec OS and Backbox Linux, perfected to run on Kali Linux Rolling.
 
+### Supported OSes: Kali Linux
+
 <hr />
 
 ## How to use it
 In order to install <code>kali-anonymous</code>, run this simple command below when in the <code>kali-anonymous</code> directory:
 
 ~~~~
-sh setup.sh
+sudo sh setup.sh
 ~~~~
 
 This will run a script that installs Tor and the other necessary files for <code>anonymous</code> to work.
