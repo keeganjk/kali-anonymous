@@ -16,7 +16,7 @@
 > <h5>Supported OSes: Kali Linux<sup>*</sup></h5>
 > <h6><sup>*</sup>Other Debian-based Linux distros may work, but this was designed for Kali.</h6>
 
-<hr />
+
 
 ## How to use it
 In order to install <code>kali-anonymous</code>, run this simple command below when in the <code>kali-anonymous</code> directory:
