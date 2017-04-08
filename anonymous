@@ -278,13 +278,9 @@ do_start() {
 
 	kill_process
 	
-	if [ "$(virt-what)" != "" ]; then
-		echo " * Unable to change MAC address in a Virtual Machine"
-	else
 		if ask "Do you want to change the MAC address?" Y; then
 			change_mac
 		fi
-	fi
 	
 	if ask "Do you want to change the local hostname?" Y; then
 		read -p "Type it or press Enter for a random one > " CHOICE
