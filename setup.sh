@@ -26,6 +26,11 @@ echo "[.] Copying files to designated locations ..."
 cp anonymous /usr/sbin/anonymous
 cp backbox-anonymous /etc/default/backbox-anonymous
 echo "[*] Done !"
+echo
+echo "[.] chmod-ing files ..."
+chmod +x /usr/sbin/anonymous
+chmod +x /etc/default/backbox-anonymous
+echo "[*] Done !"
 
 # Finish
 echo "Install should be successful!"
@@ -36,5 +41,6 @@ echo "------------------------------"
 echo "START: anonymous start "
 echo "STOP : anonymous stop  "
 echo "STAT : anonymous status"
-echo ""
-echo "If you find a bug, contact me at keeganjk@protonmail.com"
+echo "------------------------------"
+echo "Install complete!"
+echo "Read the info above for help to run the script ..."
