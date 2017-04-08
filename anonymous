@@ -215,8 +215,10 @@ redirect_to_tor() {
 	echo
 
 	if [ ! -e /var/run/tor/tor.pid ]; then
-		echo "\n[!] Tor is not running! Quitting...\n"
-		exit 1
+		echo "\n[!] Tor is not running! Starting Tor...\n"
+		service tor start
+		echo "\n[!] Tor restarted. Restarting Anonymous...\n"
+		anonymous start
 	fi
 
 	if ! [ -f /etc/network/iptables.rules ]; then
@@ -294,7 +296,7 @@ do_start() {
 		fi
 	fi
 
-	if ask "Do you want to transparently routing traffic through Tor?" Y; then
+	if ask "Do you want to transparently routetraffic through Tor?" Y; then
 		redirect_to_tor
 	else
 		echo
