@@ -11,7 +11,7 @@
 
 <br />
 
-# The <code>anonymous</code> script from ParrotSec OS and Backbox Linux, perfected to run on Kali Linux Rolling.
+# The <code>anonymous</code> script from ParrotSec and BackBox, perfected to run on Kali Linux Rolling.
 
 > <h5>Supported OSes: Kali Linux<sup>*</sup></h5>
 > <h6><sup>*</sup>Other Debian-based Linux distros may work, but this was designed for Kali.</h6>
