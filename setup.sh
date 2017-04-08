@@ -8,7 +8,7 @@ tor_install()
 	echo ""
 	read -p "Is Tor installed on this computer? [Y/n] (N if unsure) " tor
 	case $tor in
-		[Nn]* ) apt-get install tor; break;;
+		[Nn]* ) apt install tor -y; break;;
 		[Yy]* ) break;;
         	* ) echo "You didn't type Y or n, aborting!"; break;;
 	esac;
