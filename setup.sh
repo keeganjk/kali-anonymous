@@ -12,6 +12,12 @@ tor_install()
 		[Yy]* ) break;;
         	* ) echo "You didn't type Y or n, aborting!"; break;;
 	esac;
+	read -p "Is macchanger installed on this computer? [Y/n] (N if unsure) " tor
+	case $tor in
+		[Nn]* ) apt install macchanger -y; break;;
+		[Yy]* ) break;;
+        	* ) echo "You didn't type Y or n, aborting!"; break;;
+	esac;
 
 # Adding needed code to a Tor file
 echo "[.] Copying code to Tor configuration ..."
