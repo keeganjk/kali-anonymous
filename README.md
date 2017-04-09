@@ -19,8 +19,13 @@
 > <h6><sup>*</sup>Other Debian-based Linux distros may work, but this was designed for Kali.</h6>
 
 ## How to use it
-In order to install <code>kali-anonymous</code>, run this simple command below when in the <code>kali-anonymous</code> directory:
+Firstly, <code>clone</code> the repository and then <code>cd</code> into it:
+~~~~
+git clone https://keeganjk/kali-anonymous
+cd kali-anonymous
+~~~~
 
+In order to install <code>kali-anonymous</code>, run this simple command below when in the <code>kali-anonymous</code> directory. This will automate the install process:
 ~~~~
 sudo sh setup.sh
 ~~~~
