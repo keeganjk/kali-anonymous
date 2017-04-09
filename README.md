@@ -13,8 +13,10 @@
 
 # The <code>anonymous</code> script from ParrotSec and BackBox, perfected to run on Kali Linux Rolling.
 
-> <h5>Supported OSes: Kali Linux<sup>*</sup></h5>
-> <h6><sup>*</sup>Other Debian-based Linux distros may work, but this was designed for Kali.</h6>
+<h4>Supported platforms:</h4>
+<h5>Kali Linux<sup>*</sup></h5>
+<hr />
+<h6><sup>*</sup>Other Debian-based Linux distros may work, but this was designed for Kali.</h6>
 
 ## How to use it
 In order to install <code>kali-anonymous</code>, run this simple command below when in the <code>kali-anonymous</code> directory:
