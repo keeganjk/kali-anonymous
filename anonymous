@@ -272,6 +272,7 @@ do_start() {
 	warning
 
 	echo "\n[i] Starting anonymous mode\n"
+	echo "Report bugs to https://github.com/keeganjk/kali-anonymous/issues\n"
 
 	echo -n " * Service "
 	service network-manager stop 2>/dev/null || echo " network-manager already stopped"
