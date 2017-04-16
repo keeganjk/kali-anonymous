@@ -21,4 +21,4 @@ BLEACHBIT_CLEANERS="bash.history system.cache system.clipboard system.custom sys
 OVERWRITE="false"
 
 # The default local hostname
-REAL_HOSTNAME="backbox"
+REAL_HOSTNAME="kali"
