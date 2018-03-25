@@ -387,7 +387,7 @@ do_status() {
 do_update() {
 
 	echo "\n[i] Updating ...\n"
-	git clone https://github.com/kali-anonymous
+	git clone https://github.com/keeganjk/kali-anonymous
 	cd kali-anonymous
 	sh setup.sh
 	cd ..
