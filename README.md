@@ -29,7 +29,7 @@ I have edited the code so it will work better with Kali Linux, a great penetrati
 ## How to use it
 Firstly, <code>clone</code> the repository and then <code>cd</code> into it:
 ~~~~
-git clone https://keeganjk/kali-anonymous
+git clone https://github.com/keeganjk/kali-anonymous
 cd kali-anonymous
 ~~~~
 
