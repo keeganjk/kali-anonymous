@@ -1,6 +1,4 @@
 # kali-anonymous
-# MOVED TO ![https://gitlab.com/keeganjk/kali-anonymous](https://gitlab.com/keeganjk/anonymous) !
-[![Donate](https://img.shields.io/badge/donate-%24-green.svg)](https://keeganjk.github.io/donate/)
 
 ~~~~
                       _   __      _ _           ___  
